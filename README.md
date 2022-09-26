@@ -3,7 +3,7 @@
 - Website: https://projecteuler.net/about
 - I aim to solve the problems listed in Project Euler and put up the solutions here.
     - As explained below, I will only publish the solutions for the first 100 problems.
-    - Rest of solutions will be kept private.
+    - Rest of solutions will be kept private or shared in the problem discussion threads on the Project Euler website.
 - Language used: Java
 - Unit Testing Framework: JUnit
 
