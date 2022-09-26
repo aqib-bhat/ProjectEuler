@@ -1,4 +1,4 @@
-package org.math.projecteuler;
+package org.math.projecteuler.problems;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
