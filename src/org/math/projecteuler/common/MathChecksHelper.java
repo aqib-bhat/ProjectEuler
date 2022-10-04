@@ -13,7 +13,6 @@ public class MathChecksHelper {
     }
 
     public static boolean isPrime(BigInteger bigInteger) {
-        System.out.println("Inside isPrime, bigInteger: " + bigInteger);
         if (bigInteger.compareTo(BIG_INTEGER_2) < 0) {
             return false;
         }
